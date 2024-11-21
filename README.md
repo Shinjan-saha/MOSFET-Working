@@ -1,3 +1,8 @@
+# MOSFET Animtation 
+
+# Code
+
+```bash
 import pygame
 import sys
 
@@ -51,3 +56,15 @@ while True:
 
     pygame.display.flip()
     clock.tick(30)
+
+```
+
+# Working
+
+![MOSFET Animation](./img/Screen-Recording-2024-11-21-at-10.10.29-PM.gif)
+
+
+
+# Output
+
+<img src ="./img/working.png">
